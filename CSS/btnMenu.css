@@ -11,7 +11,7 @@
     position: absolute;
     background-color: white;
     background-image: url(../img/hamburguinho.svg);
-   
+    left: 0;
 }
 .btnMenu_close {
     background-color: #747c81;
